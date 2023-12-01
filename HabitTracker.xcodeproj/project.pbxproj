@@ -11,6 +11,7 @@
 		B3C1905A2B19CB4800B30931 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C190592B19CB4800B30931 /* ContentView.swift */; };
 		B3C1905C2B19CB4900B30931 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3C1905B2B19CB4900B30931 /* Assets.xcassets */; };
 		B3C1905F2B19CB4900B30931 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3C1905E2B19CB4900B30931 /* Preview Assets.xcassets */; };
+		B3C190662B19D48C00B30931 /* HabitView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3C190652B19D48C00B30931 /* HabitView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B3C190592B19CB4800B30931 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		B3C1905B2B19CB4900B30931 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3C1905E2B19CB4900B30931 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B3C190652B19D48C00B30931 /* HabitView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HabitView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B3C190572B19CB4800B30931 /* HabitTrackerApp.swift */,
 				B3C190592B19CB4800B30931 /* ContentView.swift */,
+				B3C190652B19D48C00B30931 /* HabitView.swift */,
 				B3C1905B2B19CB4900B30931 /* Assets.xcassets */,
 				B3C1905D2B19CB4900B30931 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3C190662B19D48C00B30931 /* HabitView.swift in Sources */,
 				B3C1905A2B19CB4800B30931 /* ContentView.swift in Sources */,
 				B3C190582B19CB4800B30931 /* HabitTrackerApp.swift in Sources */,
 			);
